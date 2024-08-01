@@ -17,4 +17,4 @@
 7. Go back to osu! and navigate back to the main menu.
 
 # Step 5: Apply Changes
-8. Press `F5` in osu! to refresh the map and apply the changes.
+8. Press `F5` in osu! to refresh the map to apply the changes.
