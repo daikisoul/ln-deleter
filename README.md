@@ -6,7 +6,7 @@
 2. Start the map and pause it.
 
 # Step 2: Download and Extract LN DELETER
-3. Download `LN DELETER.zip` from the [Releases]https://github.com/daikisoul/ln-deleter/releases/tag/1.0 section.
+3. Download `LN DELETER.zip` from the [Releases](https://github.com/daikisoul/ln-deleter/releases/tag/1.0) section.
 4. Extract the contents of the zip file to a location of your choice.
 
 # Step 3: Run LN DELETER
