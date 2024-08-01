@@ -1,11 +1,6 @@
-# LN DELETER
-
-## Overview
-LN DELETER is a tool designed to help with managing long notes (LN) in osu!mania maps. Follow the steps below to use LN DELETER.
 
 ## How to Run
 
-```sh
 # Step 1: Select and Pause the Map
 1. Open osu!mania and select the map you want to delete long notes from.
 2. Start the map and pause it.
