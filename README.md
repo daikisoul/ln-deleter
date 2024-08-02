@@ -6,7 +6,7 @@
 2. Start the map and pause it.
 
 # Step 2: Download and Extract LN REMOVER
-3. Download `LN REMOVER.zip` from the [Releases](https://github.com/daikisoul/ln-deleter/releases/tag/latest) section.
+3. Download `LN REMOVER.zip` from the [Releases](https://github.com/daikisoul/ln-deleter/releases/tag/2.0) section.
 4. Extract the contents of the zip file to a location of your choice.
 
 # Step 3: Run LN REMOVER
